@@ -26,6 +26,4 @@ The stencil currently includes:
 * Form input with error
 * Page outline
 
-Initially it was used to help create flows like this:
-
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/mattlucht/48635348691/in/datetaken-public/" title="developer-contributions-flow-design"><img src="https://live.staticflickr.com/65535/48635348691_081a614da9_k.jpg"alt="developer-contributions-flow-design"></a>
+Initially it was used to help create flows like [this one](https://flic.kr/p/2h6JSJF)
