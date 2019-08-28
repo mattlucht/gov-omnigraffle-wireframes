@@ -26,4 +26,4 @@ The stencil currently includes:
 * Form input with error
 * Page outline
 
-Initially it was used to help create flows like [this one](https://flic.kr/p/2h6JSJF)
+Initially it was used to help create flows like [this one](https://flic.kr/p/2h6JSJF) for a [MHCLG Digital Land project](https://digital-land.github.io/project/developer-contributions).
