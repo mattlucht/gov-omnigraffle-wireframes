@@ -1,5 +1,5 @@
 # gov-omnigraffle-wireframes
-Omnigraffle stencils for wireframing GOV UK style pages
+OmniGraffle stencils for wireframing GOV UK style pages
 
 These stencils were built from an Illustrator template that [Colm Britton](https://github.com/colmjude) put together.
 
